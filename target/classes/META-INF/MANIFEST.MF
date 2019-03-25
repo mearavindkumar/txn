@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: txn
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: cb-aravind
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_25
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/txn
+Created-By: Maven Integration for Eclipse
+
